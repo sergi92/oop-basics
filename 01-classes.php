@@ -8,7 +8,6 @@
 // To create classes we use reserved word class.
 class Mobile
 {
-    
 }
 
 // We can instantitate classes like this
