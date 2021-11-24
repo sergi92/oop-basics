@@ -133,4 +133,74 @@ Namespaces are qualifiers that solve two different problems:
 1. They allow for better organization by grouping classes that work together to perform a task
 2. They allow the same name to be used for more than one class
 
-In this file you will learn how to create and use namespaces.
+Pill Questions:
+
+## What is object-oriented programming in general terms?
+
+A way of programming which is based in the use of objects
+
+## What is a class?
+
+A class is a collection of objects, essentially a blueprint of objects.
+
+## What is an object?
+
+An object is an abstract data type which includes methods and properties.
+
+## What is an instance?
+
+An instance is a concrete ocurrence of any object, specially during runtime of an application.
+
+## What is a property?
+
+Attributes that caracterize classes
+
+## What is a method?
+
+A function within an object
+
+## What is the difference between a function and a method?
+
+a function is not inside of an object
+
+## What is a constructor?
+
+class method that gets called when a class is instantiated using the NEW function
+
+## What is the difference between a class, an object and an instance?
+
+Class>Object>instance
+
+## What do we understand about the concept of encapsulation?
+
+bundling of data with the methods that operate on that data, or the restricting of direct access to some of an object's components.
+
+## What do we understand about the concept of abstraction?
+
+Abstraction is selecting data from a larger pool to show only relevant details of the object to the user.
+
+## What do we understand about the concept of inheritance?
+
+a class inheriting the traits and methods of another class
+
+## What do we understand about the concept of polymorphism?
+
+ability of object to behave in multiple
+form.
+
+## What do we understand about the concept of Overload?
+
+same method name more than one action
+
+## What do we understand about the concept of Override?
+
+Overriding is a feature that allows a subclass or child class to provide a specific implementation of a method that is already provided by one of its super-classes or parent classes.
+
+## What differences exist between the concept of Overload and Override?
+
+overload gives more than one action and override replaces one
+
+## What is a static class?
+
+Look for 3 advantages over object-oriented programming compared to other programming paradigms
+Look for disadvantages of this paradigm.
